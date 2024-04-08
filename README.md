@@ -1,6 +1,4 @@
-### Hi there 👋, I'm Luke!
-
----
+## Hi there, I'm Luke! 👋
 
 #### Programming Languages
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -34,27 +32,3 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)
 
 <div align="center">
-
---- 
-<div 
-class="sketchfab-embed-wrapper" 
-align="left" >
-    <a href="https://www.linkedin.com/in/lukeclements">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://github.com/lukeclements">
-        <img src="https://komarev.com/ghpvc/?username=miketvo&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="lukeclements" />
-    </a>
-</div>
-
-<div align="left">
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=lukeclements&show_icons=true&theme=github_dark_dimmed"
-    media="(prefers-color-scheme: dark)"
-  />
-
----
-  
-</div>
-
